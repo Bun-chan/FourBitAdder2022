@@ -1,0 +1,37 @@
+# Compile of FourBitAdder.vo was successful.
+vsim -voptargs=+acc work.fourbitadder
+# vsim -voptargs="+acc" work.fourbitadder 
+# Start time: 15:12:52 on Oct 22,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit fourbitadder.
+#         Searched libraries:
+#             work
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 15:12:53 on Oct 22,2022, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 5
+vsim -voptargs=+acc work.fourbitadder
+# vsim -voptargs="+acc" work.fourbitadder 
+# Start time: 15:15:58 on Oct 22,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit fourbitadder.
+#         Searched libraries:
+#             work
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 15:15:59 on Oct 22,2022, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+vsim -voptargs=+acc work.fourbitadder
+# vsim -voptargs="+acc" work.fourbitadder 
+# Start time: 15:16:31 on Oct 22,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit fourbitadder.
+#         Searched libraries:
+#             work
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 15:16:32 on Oct 22,2022, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1

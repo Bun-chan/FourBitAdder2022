@@ -1,0 +1,10 @@
+--FourBitAdder
+--2022 10 22
+--ECEA5361
+--VHDL in ModelSim: Adding to your Toolkit
+
+
+--library
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;

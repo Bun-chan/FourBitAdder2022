@@ -1,0 +1,67 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MSEE/5361/4BitAdder2022_10_22/simulation/modelsim
+T_opt
+!s110 1666419653
+V[dIN@dJT;3V^z;1???6oi0
+04 12 3 work fourbitadder rtl 1
+=1-b07b2512a64d-63538bc5-25a-1670
+!s124 OEM10U1 
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+Efourbitadder
+Z1 w1666419611
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8D:/MSEE/5361/4BitAdder2022_10_22/FourBitAdder.vhd
+Z7 FD:/MSEE/5361/4BitAdder2022_10_22/FourBitAdder.vhd
+l0
+L13 1
+V1VjQe3PRo=fA[Mo6WKP3?2
+!s100 V[8^YIXn]X0z8beWh_Jae0
+Z8 OL;C;2021.2;73
+31
+Z9 !s110 1666419643
+!i10b 1
+Z10 !s108 1666419643.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|D:/MSEE/5361/4BitAdder2022_10_22/FourBitAdder.vhd|
+Z12 !s107 D:/MSEE/5361/4BitAdder2022_10_22/FourBitAdder.vhd|
+!i113 0
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 12 fourbitadder 0 22 1VjQe3PRo=fA[Mo6WKP3?2
+!i122 0
+l23
+L21 7
+Vc49G:WBHOH_>Kzzd83Mj^1
+!s100 :Yoj;kk7L2U1ModF>5mXL1
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
