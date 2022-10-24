@@ -11,10 +11,10 @@ z2
 cModel Technology
 Z0 dD:/MSEE/5361/4BitAdder2022_10_22/simulation/modelsim
 T_opt
-!s110 1666419653
-V[dIN@dJT;3V^z;1???6oi0
+!s110 1666560785
+V<]f=;f=DNYmaQLcP>EgD=2
 04 12 3 work fourbitadder rtl 1
-=1-b07b2512a64d-63538bc5-25a-1670
+=1-b07b2512a64d-6355b310-2eb-4028
 !s124 OEM10U1 
 o-quiet -auto_acc_if_foreign -work work +acc
 tCvgOpt 0
@@ -36,9 +36,9 @@ V1VjQe3PRo=fA[Mo6WKP3?2
 !s100 V[8^YIXn]X0z8beWh_Jae0
 Z8 OL;C;2021.2;73
 31
-Z9 !s110 1666419643
+Z9 !s110 1666560763
 !i10b 1
-Z10 !s108 1666419643.000000
+Z10 !s108 1666560763.000000
 Z11 !s90 -reportprogress|300|-93|-work|work|D:/MSEE/5361/4BitAdder2022_10_22/FourBitAdder.vhd|
 Z12 !s107 D:/MSEE/5361/4BitAdder2022_10_22/FourBitAdder.vhd|
 !i113 0
